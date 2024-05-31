@@ -1,27 +1,35 @@
 # Jackywine Design OpenSource
 
-This File is a Uniq chart Prototype which made me 30K views/200DM/1000 new followers in twitter
+Welcome to Jackywine Design OpenSource! This repository contains a unique chart prototype that has garnered significant attention on Twitter, with 30K views, 200 direct messages, and 1000 new followers.
 
-Function list:
+## Features
 
-light mode
-dark mode
-Multi-Node style
-Many Examples
-Figma link: https://www.figma.com/community/file/1375365743868413975
-![alt text](images/image.png)
+- Light mode
+- Dark mode
+- Multi-Node style
+- Many Examples
 
-Pic Previwe: image image image image
+![Function list](images/image.png)
 
-Chart Kit:https://github.com/Jackywine/JackywineDesignOpenSource/wiki/Chart-Kit
-![alt text](images/mage-1.png)
+## Figma Prototype
 
-![alt text](images/image-2.png)
+You can view the Figma prototype [here](https://www.figma.com/community/file/1375365743868413975).
 
-![alt text](images/image-3.png)
+## Preview
 
-Pages 2
-Find a page…
-Home
-Chart Kit
-Clone this wiki locally
+Here are some previews of the chart:
+
+![Preview 1](images/image-1.png)
+![Preview 2](images/image-2.png)
+![Preview 3](images/image-3.png)
+
+## Chart Kit
+
+You can find the Chart Kit on our [wiki](https://github.com/Jackywine/JackywineDesignOpenSource/wiki/Chart-Kit).
+
+## Pages
+
+- [Home](#)
+- [Chart Kit](https://github.com/Jackywine/JackywineDesignOpenSource/wiki/Chart-Kit)
+
+You can also clone this wiki locally for offline use.
